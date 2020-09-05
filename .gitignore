@@ -27,6 +27,16 @@ share/python-wheels/
 *.egg
 MANIFEST
 
+# Jupyter Notebooks
+.ipynb_checkpoints/
+
+# Data Files
+*.csv
+*.json
+*.pkl
+*.xls
+*.xlsx
+
 # PyInstaller
 #  Usually these files are written by a python script from a template
 #  before PyInstaller builds the exe, so as to inject date/other infos into it.
